@@ -1,0 +1,156 @@
+* {
+  box-sizing: border-box;
+  margin: auto 0;
+
+
+}
+
+h1 {
+  text-align: left;
+  padding: 18px;
+  margin: 0px;
+  color: white;
+  font-size: 125%;
+}
+
+header {
+  background-color: #06D6A0;
+  height: 60px;
+  padding:0px;
+
+
+}
+
+.nav  {
+  float: right;
+  padding: 7px;
+  margin: 0px;
+
+}
+
+ul {
+  list-style-type: none;
+  font-size: 20px;
+  margin: 0px;
+  border: 0px;
+
+}
+
+li {
+  display: inline;
+}
+
+.tcs {
+  float:left;
+}
+
+section {
+background-color: #26547C;
+overflow: hidden;
+max-width: 900px;
+margin: 0 auto;
+
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.catz {
+  width:60%;
+  float: left;
+}
+
+
+.meowcome {
+  float: left;
+  width: 40%;
+  color: white;
+  font-size: 160%;
+  text-align: center;
+}
+
+
+
+.catpara {
+  background-color: #FFD166;
+  font-size: 1.2em;
+  padding: 30px;
+
+}
+
+.productspara {
+  background-color: #F2F2F2;
+  font-size: 1.2em;
+  padding: 30px;
+
+}
+
+.catpix {
+overflow: hidden;
+float: left;
+width: 33%;
+padding: 10px;
+
+
+}
+
+container {
+  max-width: 900px;
+}
+
+.bottom {
+  background-color: #26547C;
+  color: white;
+  font-size: 1.2em;
+}
+
+
+footer {
+  background-color: #06D6A0;
+  height: 50px;
+  line-height: 50px;
+  text-align: right;
+  padding: 0 20px;
+}
+
+p {
+  padding: 20px
+
+}
+
+
+.meow {
+    float: left;
+    width: 33.33333%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #EF476F;
+    padding: 5px 0;
+}
+
+.fun {
+    float: left;
+    width: 33.33333%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #EF476F;
+    padding: 5px 0;
+}
+
+.val {
+    float: left;
+    width: 33.33333%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #EF476F;
+    padding: 5px 0;
+}
+
+.bottomlist {
+  font-size: 1.17em;
+  margin: 20px;
+  padding: 25px;
+
+}
